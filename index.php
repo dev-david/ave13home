@@ -185,40 +185,40 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
-										<a href="images/bestave.png" class="image full fancybox"><img src="images/bestave.png" alt="" /></a>
+										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2712 Best Ave</strong></h3>
+										<h3><strong>2342 14th Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,276 Sq Ft - 3,993 Lot</li>
-											<li>List: 7/1/13 - Pending: 7/9/13</li>
-											<li>List: $314,500 - SOLD $340,000</li>
+											<li>4 Bed - 2 Bath</li>
+											<li>1,539 Sq Ft - 3,450 Lot</li>
+											<li>List: 4/3/13 - Pending: 5/13/13</li>
+											<li>List: $299,000 - SOLD $307,500</li>
 										</ul>
 									</article>
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/picardy.png" class="image full fancybox"><img src="images/picardy.png" alt="" /></a>
+										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>5506 Picardy Drive</strong></h3>
+										<h3><strong>2115 15th Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,316 Sq Ft - 3,774 Lot</li>
-											<li>List: 6/28/13 - Pending: 7/15/13</li>
-											<li>List: $399,900 - SOLD $360,000</li>
+											<li>2 Bed - 1 Bath</li>
+											<li>1,075 Sq Ft - 3,720 Lot</li>
+											<li>List: 3/11/13 - Pending: 3/29/13</li>
+											<li>List: $329,000 - SOLD $348,000</li>
 										</ul>
 									</article>
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/rawson.jpg" class="image full fancybox"><img src="images/rawson.jpg" alt="" /></a>
+										<a href="images/comp3.png" class="image full fancybox"><img src="images/comp3.png" alt="" /></a>
 										<header>
-										<h3><strong>2515 Rawson St</strong></h3>
+										<h3><strong>1636 E 20th St</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,092 Sq Ft - 4,300 Lot</li>
-											<li>List: 6/24/13 - Pending: 7/30/13</li>
-											<li>List: $230,000 - SOLD $230,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>1,590 Sq Ft - 3,400 Lot</li>
+											<li>List: 5/14/13 - Pending: 6/17/13</li>
+											<li>List: $379,000 - SOLD $379,000</li>
 										</ul>
 									</article>
 								</div>
